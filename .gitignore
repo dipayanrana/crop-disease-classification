@@ -1,0 +1,36 @@
+# Virtual Environment
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large model files
+*.h5
+saved_models/
+tf-lite-models/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# Local environment
+.env
+.DS_Store
+
+# Node modules
+node_modules/
+*/node_modules/
+frontend/node_modules/
+
+# IDE files
+.vscode
+.pycharm
+.idea
+.ipynb_checkpoints
+
+models.config
+PlantVillage/
