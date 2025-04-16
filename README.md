@@ -1,4 +1,4 @@
-# Potato Disease Classification
+# Crop Disease Classification
 
 A machine learning system that classifies potato plant diseases from images into three categories: Early Blight, Late Blight, or Healthy.
 

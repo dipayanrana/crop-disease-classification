@@ -34,3 +34,6 @@ frontend/node_modules/
 
 models.config
 PlantVillage/
+training/extra/potato-disease-training.ipynb
+training/potato-disease-classification-model-using-image-data-generator.ipynb
+.gitignore
